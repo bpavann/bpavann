@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **Deep Learning | NLP | Cloud Deployment**
 - 👯 I’m looking to collaborate on **AI-driven Applications & Research Projects**
 - 📊 My interests: **Data Science, Analytics, Neural Networks, and Real-time Systems**
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **bpavank1025@gmail.com**
 - ⚡ Fun fact: *I love solving real-world problems through data.*
 
 ---
