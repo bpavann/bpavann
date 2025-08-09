@@ -140,11 +140,8 @@ An AI-powered semantic search engine for academic research papers.
 </p>
 
 ---
+<p align="center">
+  With ❤️‍🔥 From [Pavan](https://github.com/bpavann)
+</p>
 
-With ❤️‍🔥 From [Pavan](https://github.com/bpavann)
-
-
----
-
-⭐️ From [Pavan](https://github.com/bpavann)
 ---
