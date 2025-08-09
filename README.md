@@ -2,7 +2,15 @@
 <h3 align="center">A Passionate Data Science & Analytics Enthusiast 🚀</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bpavann&label=Profile%20Views&color=0e75b6&style=flat" alt="bpavann" />
+  <a href="https://github.com/bpavann" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=bpavann&label=GitHub%20Views&color=blueviolet&style=flat-square" alt="GitHub Views" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" alt="LinkedIn Profile" />
+  </a>
+  <a href="mailto:bpavank1025@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=flat-square&logo=gmail" alt="Email" />
+  </a>
 </p>
 
 ---
@@ -20,28 +28,78 @@
 ## 🛠️ Tech Stack
 
 ### 🚀 Languages & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,java,cpp,mysql,sqlite,git,github,html,css,javascript,react,vscode,linux,anaconda,tensorflow,pytorch,sklearn" />
+<p align="center">
+  <table>
+    <tr>
+      <!-- Skillicons.dev supported -->
+      <td align="center"><img src="https://skillicons.dev/icons?i=python" width="48"/><br>Python</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>MySQL</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=git" width="48"/><br>Git</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=github" width="48"/><br>GitHub</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>VS Code</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=anaconda" width="48"/><br>Anaconda</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="48"/><br>TensorFlow</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=pytorch" width="48"/><br>PyTorch</td>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48"/><br>Scikit-learn</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=flask" width="48"/><br>Flask</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="48"/><br>Docker</td>
+    </tr>
+  </table>
 </p>
+
+---
+
+### 🛠 MLOps Tools
+`MLOps` • `CircleCI` • `DVC` • `MLflow` • `BentoML` • `Kubeflow`
+
+### 🤖 AI & LLM Tools
+`LangChain` • `Hugging Face` • `Google Gemini` • `LlamaIndex` • `OpenAI` • `Chainlit` • `FAISS` • `LangSmith`
+
 
 ---
 
 ## 📌 Featured Projects
-- 📈 **[Facial Expression Analysis](https://github.com/bpavann/Facial-Expression-Analysis)**  
-  *CNN-based system for customer emotion recognition in retail environments.*
-- 🤖 **[Biomedical Sentence Classification](https://github.com/bpavann/BioMed-Text-Classification)**  
-  *LSTM model for classifying sentences from PubMed research abstracts.*
-- 🏡 **[RentIT App](https://github.com/bpavann/RentIT-App)**  
-  *React Native + Flask app for seamless rental property management.*
+
+### 🏠 [California House Price Prediction](https://github.com/bpavann/CaliforniaHousingPricingP)
+An end-to-end machine learning solution for predicting housing prices in California.  
+**Key Highlights:**
+- Engineered a **regression model** using **XGBoost**, achieving high predictive accuracy.
+- Implemented **data preprocessing**, **feature engineering**, and **hyperparameter optimization**.
+- Serialized the trained model with **Pickle** and deployed a **Flask-based real-time web application**.
+- Hosted the **complete ML pipeline** and web app on GitHub for reproducibility.
 
 ---
 
-## 📊 GitHub Stats
+### 📈 [Facial Expression Analysis in Retail Environments](https://github.com/bpavann/Facial-Expression-Analysis)
+A deep learning system for real-time customer emotion recognition in retail stores.  
+**Key Highlights:**
+- Developed a **Convolutional Neural Network (CNN)** to classify facial expressions.
+- Enhanced customer engagement by enabling **automated emotion-based personalization**.
+- Utilized the **FER2013 dataset**, achieving **48% accuracy** on test data.
+- Designed for **practical real-time deployment** in physical retail spaces.
+
+---
+
+### 📚 [Semantic Search of Research Papers](https://github.com/bpavann/SemanticRP-Project)
+An AI-powered semantic search engine for academic research papers.  
+**Key Highlights:**
+- Created an **NLP-based retrieval system** to identify research papers contextually similar to an uploaded PDF abstract.
+- Extracted and indexed metadata in **Firebase Cloud** for fast and scalable querying.
+- Integrated the **OpenAI API** for context-aware semantic similarity matching.
+- Significantly improved research efficiency by **reducing manual search time**.
+
+---
+
+## 📊 GitHub Insights
+
+### 🔥 Contribution Streak & Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bpavann&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bpavann&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bpavann&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bpavann&theme=radical" width="48%" />
 </p>
+
+### 🌐 Top Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpavann&layout=compact&theme=radical" />
@@ -49,31 +107,42 @@
 
 ---
 
+## 📈 GitHub Summary Dashboard
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bpavann&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bpavann&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bpavann&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bpavann&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bpavann&theme=radical&utcOffset=4" />
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-<a href="https://twitter.com/YOUR-TWITTER" target="blank"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
-<a href="mailto:your.email@example.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-</p>
-
-
-## 📈 Activity & Dashboard
-
 <p align="center">
-  <!-- GitHub Metrics -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bpavann&theme=radical" alt="Profile Details"/>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="https://twitter.com/YOUR-TWITTER" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
+  </a>
+  <a href="mailto:bpavank1025@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bpavann&theme=radical" alt="Top Languages by Repo"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bpavann&theme=radical" alt="Most Commit Language"/>
-</p>
+---
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bpavann&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bpavann&theme=radical&utcOffset=4" alt="Productive Time"/>
-</p>
+With ❤️‍🔥 From [Pavan](https://github.com/bpavann)
+
 
 ---
 
