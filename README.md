@@ -90,41 +90,6 @@ An AI-powered semantic search engine for academic research papers.
 
 ---
 
-## 📊 GitHub Insights
-
-### 🔥 Contribution Streak & Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bpavann&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bpavann&theme=radical" width="48%" />
-</p>
-
-### 🌐 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpavann&layout=compact&theme=radical" />
-</p>
-
----
-
-## 📈 GitHub Summary Dashboard
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bpavann&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bpavann&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bpavann&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bpavann&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bpavann&theme=radical&utcOffset=4" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -141,6 +106,6 @@ An AI-powered semantic search engine for academic research papers.
 
 ---
 
-With ❤️‍🔥 From [Pavan](https://github.com/bpavann)
+## With ❤️‍🔥 From [Pavan](https://github.com/bpavann)
 
 ---
