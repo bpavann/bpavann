@@ -2,9 +2,6 @@
 <h3 align="center">A Passionate Data Science & Analytics Enthusiast 🚀</h3>
 
 <p align="center">
-  <a href="https://github.com/bpavann" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=bpavann&label=GitHub%20Views&color=blueviolet&style=flat-square" alt="GitHub Views" />
-  </a>
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" alt="LinkedIn Profile" />
   </a>
