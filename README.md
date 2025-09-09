@@ -90,11 +90,8 @@ An AI-powered semantic search engine for academic research papers.
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/pavankumarb1025" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
-  <a href="https://twitter.com/YOUR-TWITTER" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
   </a>
   <a href="mailto:bpavank1025@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
